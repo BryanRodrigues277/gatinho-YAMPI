@@ -1,0 +1,9 @@
+node_modules
+dist
+.bolt
+.DS_Store
+*.local
+.env
+.idea
+.vscode
+build
