@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { buildURLWithUTM } from '../utils/utm';
 
-const CHECKOUT_BASE_URL = 'https://pay.hotmart.com/U104374588O?checkoutMode=10';
+const CHECKOUT_BASE_URL = 'https://heloisa-artesa.pay.yampi.com.br/r/SOGYZNU7DH';
 
 export function useCheckoutLink(): string {
   const checkoutUrl = useMemo(() => {
