@@ -13,7 +13,7 @@ export default function Testimonials() {
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-bege-light rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
             <img
-              src="https://image2url.com/r2/default/images/1770738213171-b406d745-946c-4c64-9856-f56918efa25c.png"
+              src="https://image2url.com/r2/default/images/1772232080603-163ae608-8cc1-430a-a661-da77c40aa9b6.png"
               alt="Depoimento Clarice Souza"
               loading="lazy"
               className="w-full h-auto block"
@@ -22,7 +22,7 @@ export default function Testimonials() {
 
           <div className="bg-bege-light rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
             <img
-              src="https://image2url.com/r2/default/images/1770738295663-d9218c14-c6d9-4b18-b942-e4d142b6efd3.png"
+              src="https://image2url.com/r2/default/images/1772232431796-ec960518-ebfc-4a7d-b922-12b9743d221a.png"
               alt="Depoimento Maria Lima"
               loading="lazy"
               className="w-full h-auto block"
